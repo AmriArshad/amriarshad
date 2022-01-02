@@ -8,16 +8,16 @@ NFTs | Crypto | Digital Art | Creative Coding
 ### 💯 Constantly learning
 
 <a href="https://github.com/AmriArshad/project-polygon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=material-palenight" />
 </a>
 <a href="https://github.com/AmriArshad/polybar-modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=polybar-modules&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=polybar-modules&theme=material-palenight" />
 </a>
 <a href="https://github.com/AmriArshad/SpaceInvaders">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=SpaceInvaders&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=SpaceInvaders&theme=material-palenight" />
 </a>
 <a href="https://github.com/AmriArshad/amriarshad.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=amriarshad.github.io&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=amriarshad.github.io&theme=material-palenight" />
 </a>
 
 ### 🛠 Technologies & Tools
@@ -35,5 +35,5 @@ NFTs | Crypto | Digital Art | Creative Coding
 ### 🚦 Stats
 
 <a href="https://github.com/AmriArshad">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmriArshad&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmriArshad&show_icons=true&theme=material-palenight" />
 </a>
