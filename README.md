@@ -7,8 +7,8 @@ NFTs | Crypto | Digital Art | Creative Coding
 
 ### 💯 Constantly learning
 
-<a href="https://github.com/AmriArshad/awesome-ppt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=onedark" />
+<a href="https://github.com/AmriArshad/project-polygon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=synthwave" />
 </a>
 
 ### 🛠 Technologies & Tools
@@ -25,6 +25,6 @@ NFTs | Crypto | Digital Art | Creative Coding
 
 ### 🚦 Stats
 
-<a href="https://github.com/AmriArshad/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmriArshad&show_icons=true&hide=commits" />
+<a href="https://github.com/AmriArshad">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmriArshad&show_icons=true&theme=synthwave" />
 </a>
