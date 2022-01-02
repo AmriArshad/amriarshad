@@ -10,6 +10,15 @@ NFTs | Crypto | Digital Art | Creative Coding
 <a href="https://github.com/AmriArshad/project-polygon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=synthwave" />
 </a>
+<a href="https://github.com/AmriArshad/polybar-modules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=polybar-modules&theme=synthwave" />
+</a>
+<a href="https://github.com/AmriArshad/SpaceInvaders">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=SpaceInvaders&theme=synthwave" />
+</a>
+<a href="https://github.com/AmriArshad/amriarshad.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=amriarshad.github.io&theme=synthwave" />
+</a>
 
 ### 🛠 Technologies & Tools
 
