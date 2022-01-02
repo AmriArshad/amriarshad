@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Amri</h1>
-<h3 align="center">A Computer Science student, Digital Artist and Creative Coder</h3>
+### Hello World 👋
+**🍉 I'm [Amri](https://amriarshad.github.io/)** 
 
-<p align="left"> <a href="https://twitter.com/amri__a" target="blank"><img src="https://img.shields.io/twitter/follow/amri__a?logo=twitter&style=for-the-badge" alt="amri__a" /></a> </p>
+NFTs | Crypto | Digital Art | Creative Coding
 
-- 🔭 I’m currently working on [Project Polygon](https://amriarshad.github.io/Project-Polygon/)
+[<img src ="https://img.shields.io/badge/👀-links-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://linktr.ee/TheMel0n)
 
-- 👨‍💻 All of my projects are available at [https://amriarshad.github.io/](https://amriarshad.github.io/)
+### 💯 Constantly learning
 
-- 💬 Ask me about **Crypto, NFTs and p5.js**
+<a href="https://github.com/AmriArshad/awesome-ppt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=onedark" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🛠 Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amriarshad&show_icons=true&theme=synthwave&locale=en" alt="amriarshad" /></p>
+![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+### 🚦 Stats
+
+<a href="https://github.com/AmriArshad/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmriArshad&show_icons=true&hide=commits" />
+</a>
