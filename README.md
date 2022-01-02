@@ -1,7 +1,9 @@
 ### Hello World 👋
-**🍉 I'm [Amri](https://amriarshad.github.io/)** 
+**🍉 I'm Amri** 
 
+```
 NFTs | Crypto | Digital Art | Creative Coding
+```
 
 [<img src ="https://img.shields.io/badge/👀-links-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://linktr.ee/TheMel0n)
 
