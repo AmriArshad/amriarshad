@@ -2,15 +2,15 @@
 **🍉 I'm Amri** 
 
 ```
-NFTs | Crypto | Digital Art | Creative Coding
+Crypto | Digital Art | Creative Coding
 ```
 
 [<img src ="https://img.shields.io/badge/👀-links-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://linktr.ee/TheMel0n)
 
 ### 💯 Constantly learning
 
-<a href="https://github.com/AmriArshad/project-polygon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=project-polygon&theme=material-palenight" />
+<a href="https://github.com/AmriArshad/holocryptic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=holocryptic&theme=material-palenight" />
 </a>
 <a href="https://github.com/AmriArshad/polybar-modules">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmriArshad&repo=polybar-modules&theme=material-palenight" />
