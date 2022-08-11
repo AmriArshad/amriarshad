@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://amri.dev" target="_blank" title="amri.dev">
-  <img src="https://amri.dev/images/button-dark.png" alt="amri.dev" width="100">
+  <img src="https://amri.dev/images/button-dark.png" alt="amri.dev">
 </a>
 </p>
 
